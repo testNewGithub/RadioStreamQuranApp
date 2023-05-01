@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "781042043787",
+    "firebase_url": "https://radio-stream-quran-karim.firebaseio.com",
+    "project_id": "radio-stream-quran-karim",
+    "storage_bucket": "radio-stream-quran-karim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781042043787:android:918e51adb5ca20ed",
+        "android_client_info": {
+          "package_name": "com.gtari.deltatechenologie.radio_stream_quran_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781042043787-10gl98fvf34c0ocot6985l3uv3igocuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtari.deltatechenologie.radio_stream_quran_app",
+            "certificate_hash": "250d29731226901cc3db599eefc38e16b860d124"
+          }
+        },
+        {
+          "client_id": "781042043787-pr1prvehm8ohjv5994ncpae3omklvvqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLE8-nCNIjjBeDcj2vEYyf1oGgF5P4Kh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781042043787-pr1prvehm8ohjv5994ncpae3omklvvqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4168864559615120~6509422746"
+    }
+  ],
+  "configuration_version": "1"
+}

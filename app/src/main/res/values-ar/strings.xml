@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">إذاعة القرآن الكريم</string>
+    <string name="share">مشاركة</string>
+    <string name="apps">تطبيقاتنا</string>
+    <string name="review">تقييم</string>
+
+    <string name="langauge">اللغات</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+
+    <string name="share_title">نشرالتطبيق</string>
+    <string name="share_message">يمكنك دعم إنتشار إذاعة القرآن الكريم وزيادة متابعيها على كامل تونس ولما لا العالم العربي من خلال نشر هذا التطبيق.</string>
+
+    <string name="rate_title">تقييم التطبيق</string>
+    <string name="rate_message">رأيك يهمنا! من فضلك قم بتقييم التطبيق وأترك تعليقك لتشجيعنا على تحسن العمل في المستقبل.</string>
+
+    <string name="share_with">مشاركة التطبيق مع:</string>
+
+    <string name="bt_back">لاحقا</string>
+    <string name="bt_continue">متابعة</string>
+
+    <string name="language">إختيار اللغة</string>
+
+    <string name="close">إغلاق</string>
+
+    <string name="elkolfielkot_txt">تطبيق فيه إلّي تستحقو الكلّ باش تستعمل الخط متاعك بسهولة.</string>
+    <string name="recharger_facilement_txt">تفد كي تجي تصب كارطة و إلاّ تضيع وقت  ساهل بارشة  تطبيق شرجي بسهولة يعاونك.</string>
+
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+
+    <string name="cancel_title">خروج من التطبيق</string>
+    <string name="cancel_message">هل تريد الخروج من التطبيق ؟</string>
+
+    <string name="internet_state_title">شبكة الانترنت</string>
+    <string name="internet_state_message">يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى!</string>
+    <string name="ok">إعادة المحاولة</string>
+
+
+</resources>

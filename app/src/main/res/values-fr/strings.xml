@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Radio Quran Karim</string>
+    <string name="share">Partager</string>
+    <string name="apps">Apps</string>
+    <string name="review">Avis</string>
+
+    <string name="langauge">Les langues</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+
+    <string name="share_title">نشرالتطبيق</string>
+    <string name="share_message">يمكنك دعم إنتشار إذاعة القرآن الكريم وزيادة متابعيها على كامل تونس ولما لا العالم العربي من خلال نشر هذا التطبيق.</string>
+
+    <string name="rate_title">Noter l\'application</string>
+    <string name="rate_message">Votre avis nous intéresse! SVP n\'hésitez pas à nous donner votre avis et de laisser votre commentaire.</string>
+
+    <string name="share_with">Partager l\'application avec:</string>
+
+    <string name="bt_back">Non</string>
+    <string name="bt_continue">Suivant</string>
+
+    <string name="language">Choisissez votre Langue</string>
+
+    <string name="close">Fermer</string>
+
+    <string name="elkolfielkot_txt">تطبيق فيه إلّي تستحقو الكلّ باش تستعمل الخط متاعك بسهولة.</string>
+    <string name="recharger_facilement_txt">تفد كي تجي تصب كارطة و إلاّ تضيع وقت  ساهل بارشة  تطبيق شرجي بسهولة يعاونك.</string>
+
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+
+    <string name="cancel_title">Quitter l\'application</string>
+    <string name="cancel_message">Voulez-vous quitter ?</string>
+
+    <string name="internet_state_title">Réseau internet</string>
+    <string name="internet_state_message">S\'il vous plaît, vérifiez votre connexion INTERNET et réessayez!</string>
+    <string name="ok">D\'accord</string>
+
+
+</resources>
